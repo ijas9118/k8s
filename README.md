@@ -1,19 +1,18 @@
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Declarative%20Orchestration-blue?style=plastic&logo=kubernetes&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Kubernetes Learning Repository
 
 Welcome to the **Kubernetes (k8s) Learning Repository**! This repository is a comprehensive, hands-on guide to mastering Kubernetes fundamentals through practical examples, commands, and configurations.
 
-## Table of Contents
+## Quick Links
 
-| Section               | Description                                                                                           | Link                                                      |
-| --------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| Pods                  | Guide to creating, managing, and inspecting Kubernetes Pods using imperative and declarative methods. | [Go to page 🔗](2-pods/)                                   |
-| ReplicationController | Introduction to ReplicationControllers for maintaining a specified number of pod replicas.            | [Go to page 🔗](3-replicationcontroller/) |
-| ReplicaSet            | Advanced replication with ReplicaSets, including scaling and selector-based pod management.           | [Go to page 🔗](4-replicaset/)                       |
-| Deployments           | Declarative management of ReplicaSets with rolling updates, rollbacks, and scaling.                   | [Go to page 🔗](5-deployments/)                     |
-| Services              | Exposing applications with different Service types (NodePort, ClusterIP, LoadBalancer, ExternalName). | [Go to page 🔗](6-services/)                           |
-| Namespaces            | Resource isolation and organization using Namespaces, with cross-namespace communication examples.    | [Go to page 🔗](7-namespaces/)                       |
+[![Pods](https://img.shields.io/badge/Pods-Guide-blue?style=for-the-badge&logo=kubernetes&logoColor=white)](2-pods/)
+[![ReplicationController](https://img.shields.io/badge/ReplicationController-Guide-green?style=for-the-badge&logo=kubernetes&logoColor=white)](3-replicationcontroller/)
+[![ReplicaSet](https://img.shields.io/badge/ReplicaSet-Guide-purple?style=for-the-badge&logo=kubernetes&logoColor=white)](4-replicaset/)
+[![Deployments](https://img.shields.io/badge/Deployments-Guide-orange?style=for-the-badge&logo=kubernetes&logoColor=white)](5-deployments/)
+[![Services](https://img.shields.io/badge/Services-Guide-red?style=for-the-badge&logo=kubernetes&logoColor=white)](6-services/)
+[![Namespaces](https://img.shields.io/badge/Namespaces-Guide-yellow?style=for-the-badge&logo=kubernetes&logoColor=white)](7-namespaces/)
 
 _Note: More sections on advanced topics like ConfigMaps, Secrets, Ingress, Helm, and more will be added soon!_
 
@@ -71,5 +70,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ If this repository helps you, please star it on GitHub! Contributions and feedback are welcome.
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Declarative%20Orchestration-blueviolet?style=for-the-badge&logo=kubernetes&logoColor=white)
