@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Kubernetes Learning Repository
 
 Welcome to the **Kubernetes (k8s) Learning Repository**! This repository is a comprehensive, hands-on guide to mastering Kubernetes fundamentals through practical examples, commands, and configurations.
