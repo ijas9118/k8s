@@ -101,5 +101,4 @@ kubectl delete rs frontend
 - The `selector.matchLabels` in the ReplicaSet must match the pod template's `labels` to manage the pods correctly.
 - Use `kubectl scale` for quick replica adjustments or `kubectl edit` for broader configuration changes.
 - ReplicaSets are often managed by Deployments in modern Kubernetes setups for rolling updates and rollback capabilities.
-- Store the `rs.yaml` file in a relevant directory (e.g., `rs/`) for version control and reference.
 - **Caution**: Avoid creating bare pods with labels that match a ReplicaSet’s selector to prevent unintended pod adoption.
