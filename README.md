@@ -8,12 +8,12 @@ Welcome to the **Kubernetes (k8s) Learning Repository**! This repository is a co
 
 | Section               | Description                                                                                           | Link                                                      |
 | --------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| Pods                  | Guide to creating, managing, and inspecting Kubernetes Pods using imperative and declarative methods. | [pods/README.md](pods/)                                   |
-| ReplicationController | Introduction to ReplicationControllers for maintaining a specified number of pod replicas.            | [replicationcontroller/README.md](replicationcontroller/) |
-| ReplicaSet            | Advanced replication with ReplicaSets, including scaling and selector-based pod management.           | [replicaset/README.md](replicaset/)                       |
-| Deployments           | Declarative management of ReplicaSets with rolling updates, rollbacks, and scaling.                   | [deployments/README.md](deployments/)                     |
-| Services              | Exposing applications with different Service types (NodePort, ClusterIP, LoadBalancer, ExternalName). | [services/README.md](services/)                           |
-| Namespaces            | Resource isolation and organization using Namespaces, with cross-namespace communication examples.    | [namespaces/README.md](namespaces/)                       |
+| Pods                  | Guide to creating, managing, and inspecting Kubernetes Pods using imperative and declarative methods. | [Go to page 🔗](2-pods/)                                   |
+| ReplicationController | Introduction to ReplicationControllers for maintaining a specified number of pod replicas.            | [Go to page 🔗](3-replicationcontroller/) |
+| ReplicaSet            | Advanced replication with ReplicaSets, including scaling and selector-based pod management.           | [Go to page 🔗](4-replicaset/)                       |
+| Deployments           | Declarative management of ReplicaSets with rolling updates, rollbacks, and scaling.                   | [Go to page 🔗](5-deployments/)                     |
+| Services              | Exposing applications with different Service types (NodePort, ClusterIP, LoadBalancer, ExternalName). | [Go to page 🔗](6-services/)                           |
+| Namespaces            | Resource isolation and organization using Namespaces, with cross-namespace communication examples.    | [Go to page 🔗](7-namespaces/)                       |
 
 _Note: More sections on advanced topics like ConfigMaps, Secrets, Ingress, Helm, and more will be added soon!_
 
