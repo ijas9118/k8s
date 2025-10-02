@@ -8,8 +8,8 @@ Welcome to the **Kubernetes (k8s) Learning Repository**! This repository is a co
 ## Quick Links
 
 [![Pods](https://img.shields.io/badge/Pods-Guide-blue?style=for-the-badge&logo=kubernetes&logoColor=white)](./2-pod)
-[![ReplicationController](https://img.shields.io/badge/ReplicationController-Guide-green?style=for-the-badge&logo=kubernetes&logoColor=white)](./3-replicationcontroller)
-[![ReplicaSet](https://img.shields.io/badge/ReplicaSet-Guide-purple?style=for-the-badge&logo=kubernetes&logoColor=white)](./4-replicaset)
+[![ReplicationController](https://img.shields.io/badge/ReplicationController-Guide-green?style=for-the-badge&logo=kubernetes&logoColor=white)](./3-replicationController)
+[![ReplicaSet](https://img.shields.io/badge/ReplicaSet-Guide-purple?style=for-the-badge&logo=kubernetes&logoColor=white)](./4-replicaSet)
 [![Deployments](https://img.shields.io/badge/Deployments-Guide-orange?style=for-the-badge&logo=kubernetes&logoColor=white)](./5-deployment)
 [![Services](https://img.shields.io/badge/Services-Guide-red?style=for-the-badge&logo=kubernetes&logoColor=white)](./6-services)
 [![Namespaces](https://img.shields.io/badge/Namespaces-Guide-yellow?style=for-the-badge&logo=kubernetes&logoColor=white)](./7-namespaces)
