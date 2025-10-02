@@ -1,4 +1,4 @@
-# Kubernetes ReplicationController Management
+# Kubernetes ReplicationController Management (Legacy)
 
 This README provides a guide to managing Kubernetes ReplicationControllers using `kubectl` commands. It covers creating, inspecting, and deleting a ReplicationController, as well as listing associated pods, using both imperative commands and a YAML configuration.
 
